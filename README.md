@@ -8,3 +8,4 @@ Few Officially Useful Utilities
 5. UnZip.py               ==>  Extract Specific Files from ZipFile (based on filter)
 6. ValidateFile.py        ==>  Validate if all files in folder ends with backslash (used to validate plsql files) 
 7. Format_xml.py          ==>  Format XML using BeautifulSoup and write it to text file so as to compare using any compare tools.
+8. html_to_pdf            ==> html to pdf conversion
