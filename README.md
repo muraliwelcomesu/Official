@@ -6,3 +6,4 @@ Few Officially Useful Utilities
 3. CompareFiles.py        ==>  Comparing files in two directories
 4. Compare_Excel.py       ==>  Convert Excel Contents to a Text File.
 5. UnZip.py               ==>  Extract Specific Files from ZipFile (based on filter)
+6. ValidateFile.py        ==>  Validate if all files in folder ends with backslash (used to validate plsql files) 
